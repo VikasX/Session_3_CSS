@@ -1,0 +1,18 @@
+/*EXTERNAL CSS FILE */
+
+
+
+.bck1 {
+    background-color:lightblue; 
+    font-family: fantasy;
+}
+
+#MyDiv2 {
+    width : 900px;
+    display: block;
+    background-color: beige;
+}
+
+* {
+font-family: sans-serif
+}
